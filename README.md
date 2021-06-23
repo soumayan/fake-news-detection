@@ -1,1 +1,1 @@
-# fake-news-spreader
+# fake-news-detection
