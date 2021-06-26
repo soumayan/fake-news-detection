@@ -3,7 +3,7 @@
 [GitHub](https://github.com/soumayan/fake-news-detection "You can find models in this link")
 
 **Installing library (First step)**
-`pip install soumayan4==1.0.0`
+`pip install soumayan4==1.0.2`
 
 ***
 ### Now we will see how to implement this library upon English and other 4 European languages.
